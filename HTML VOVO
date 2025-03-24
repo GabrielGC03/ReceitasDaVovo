@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <header>
+    <img width="150" height="150" src="assets/1720188222946.jpg"> </img>
+
+    <h1>Gabriel Gonçalves Campião</h1>
+    <p>Solteiro, 21 anos, sem filhos; <br>Altos de São Francisco, Piracicaba. </p>
+    <h3>Telefone: (19) 98324-0775 <br>
+    gacampiao@outlook.com </h3>
+    <ul>
+
+        
+    </header>
+    </ul>
+
+    <main>
+
+        <h2>Escolaridade</h2>
+        <ul>
+            <li>Cursando 2° Semestre de Ciência da Computação – Escola de Engenharia de Piracicaba (EEP)</li> <br>
+            <li>Ensino Médio Integrado ao Técnico em Mecatrônica | Etec Cel. Fernando Febeliano da Costa | Piracicaba, SP   Concluído em 2021.</li>
+            <br>
+        </ul>
+
+        <h2>Software</h2>
+        <ul>
+
+        <li>Conhecimento intermediário no Pacote Office; </li> 
+        <li>Conhecimento no Microsoft Teams, Outlook, Google Drive, AutoCad, Skype e Google Earth;</li>
+        <li>Conhecimento intermediário no Inventor 3d</li>
+        <li>Conhecimento Básico em Javascript;</li>
+        <li>Conhecimento Básico em linguagem C;</li>
+        <li>Conhecimento Básico em linguagem C++;</li>
+        <li>Conhecimento Básico em linguagem HTML;</li>
+        <li>Conhecimento Básico em CSS.</li><br>
+    </ul>
+        <h2>Projeto Escolar</h2>
+        <ul>
+
+            <li>Feira de Ciências | ETEC Cel. Fernando Febeliano da Costa | Piracicaba, SP | 2019</li>
+<br> <br>
+
+            <h2>Experiência Profissional</h2>
+
+            <li>Caterpillar do Brasil Ltda <br>  
+                Início 07/22 até 10/12/2023 <br>
+                Cargo: Aprendiz – Montador de Veículos   
+                </li> <br>
+                
+                <li>Caterpillar Brasil Ltda <br>
+                    Início 10/01/2024 até 03/10/2024 <br>
+                    Cargo: Mecânico Montador
+                    </li>
+
+                <h3>Principais Atividades:</h3>
+                <li>Leitura e interpretação de diagramas técnicos;</li>
+                <li>Trabalho em equipe para otimização de processos de montagem.</li>
+<br><br>
+                <h2>Habilidades Comportamentais</h2>
+
+                <li>Trabalho em equipe;</li>
+                <li>Proatividade;</li>
+                <li>Aprendizado rápido;</li>
+                <li>Organização;</li>
+                <li>Resolução de problemas.</li>
+
+        </ul>
+    </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
